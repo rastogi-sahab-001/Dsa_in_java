@@ -1,13 +1,13 @@
-// Pre-Decrement
+// Post-Decrement
 import java.util.Scanner;
-public class predecrement {
+public class postdecrement {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a Number :-");
         int n = sc.nextInt();
-        System.out.println(n--);
+        System.out.println(--n);
         System.out.println(n);
         sc.close();
-
     }
+    
 }
