@@ -1,6 +1,5 @@
 // Area of Circle
 
-
 import java.util.*;
 public class Areaofcircle {
     public static void main(String[]args){
