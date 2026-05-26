@@ -1,3 +1,4 @@
+// Square of a number
 import java.util.*;
 
 public class Square_number {
