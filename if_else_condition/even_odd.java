@@ -12,7 +12,7 @@ public class even_odd {
             System.out.println("Even Number");
         }else{
             System.out.println("Odd Number");
-            sc.close();
         }    
+        sc.close();
     }
 }
