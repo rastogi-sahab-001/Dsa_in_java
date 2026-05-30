@@ -1,3 +1,5 @@
+// Greater Number using ternary 
+
 package if_else_condition;
 
 import java.util.*;
