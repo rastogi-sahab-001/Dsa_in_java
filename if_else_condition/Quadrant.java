@@ -33,10 +33,9 @@ public class Quadrant {
         else if(x == 0){
             System.out.println("On Y-Axis");
         }
-        else{
-            System.out.println("On X-Axis");
+        
         }
 
         sc.close();
     }
-}
+
