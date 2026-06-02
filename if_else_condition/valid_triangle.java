@@ -14,8 +14,6 @@ public class valid_triangle {
         int c = sc.nextInt();
         if(a+b>c && b+c>a && c+a>b){
             System.out.println("Valid Triangle");
-        }else{
-            System.out.println("Not Valid Triangle");
         }
         sc.close();
     }
