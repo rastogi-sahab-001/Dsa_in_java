@@ -15,8 +15,6 @@ public class profit_loss {
             System.out.println("Profit");
         }else if(cp>sp){
             System.out.println("Loss");
-        }else if(sp==cp){
-            System.out.println("No Profit No Loss");
         }
         sc.close();
     }    
