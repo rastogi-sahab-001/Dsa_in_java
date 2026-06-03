@@ -12,7 +12,6 @@ public class Square_number {
 
         int square = n * n;
 
-        System.out.println(square + " is the square of " + n);
 
         sc.close();
     }
