@@ -6,7 +6,7 @@ public class ASCIINumber {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Value :-");
         int n = sc.nextInt();
-        
+        char ch = (char) n;
         System.out.println("ASCII Value is " + ch);
         sc.close();
     }
