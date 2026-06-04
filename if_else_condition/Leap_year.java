@@ -16,7 +16,7 @@ public class Leap_year {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Year:");
         int n = sc.nextInt();
-        
+        if((n % 400 == 0) || (n % 4 == 0 && n % 100 != 0)){
             System.out.println("Leap Year");
         }else{
             System.out.println("Not Leap Year");
