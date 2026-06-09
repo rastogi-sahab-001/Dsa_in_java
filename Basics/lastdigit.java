@@ -9,7 +9,7 @@ public class lastdigit {
 
         int num = sc.nextInt();
 
-        int lastDigit = num % 10;
+
 
         System.out.println("Last Digit is: " + lastDigit);
         sc.close();
