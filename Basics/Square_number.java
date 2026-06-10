@@ -10,7 +10,6 @@ public class Square_number {
         System.out.print("Enter a Number: ");
         int n = sc.nextInt();
 
-        int square = n * n;
 
         System.out.println(square + " is the square of " + n);
 
