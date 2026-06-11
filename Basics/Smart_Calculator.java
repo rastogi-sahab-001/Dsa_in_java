@@ -40,7 +40,7 @@ public class Smart_Calculator {
         double div = (double) n / x;
         System.out.println("Division: " + div);
 
-        System.out.println("Modulus: " + (n % x));
+
 
         double avg = (n + x) / 2.0;
         System.out.println("Average: " + avg);
