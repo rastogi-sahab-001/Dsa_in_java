@@ -38,7 +38,6 @@ public class Smart_Calculator {
         System.out.println("Multiplication: " + (n * x));
 
         double div = (double) n / x;
-        System.out.println("Division: " + div);
 
         System.out.println("Modulus: " + (n % x));
 
