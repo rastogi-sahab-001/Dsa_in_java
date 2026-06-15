@@ -43,7 +43,7 @@ public class Smart_Calculator {
         System.out.println("Modulus: " + (n % x));
 
         double avg = (n + x) / 2.0;
-
+        System.out.println("Average: " + avg);
 
         // Even or Odd
         if (n % 2 == 0) {
