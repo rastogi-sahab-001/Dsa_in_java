@@ -7,7 +7,7 @@ public class Square_number {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Enter a Number: ");
+
         int n = sc.nextInt();
 
         int square = n * n;
