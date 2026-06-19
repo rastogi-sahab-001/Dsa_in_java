@@ -7,6 +7,6 @@ public class temperature {
         double celsius = sc.nextDouble();
         double Fahrenheit = ( 9.0 / 5.0 ) * celsius + 32;
         System.out.print(Fahrenheit);
-
+        sc.close();
     }
 }
