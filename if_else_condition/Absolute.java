@@ -11,7 +11,6 @@ public class Absolute {
         System.out.print("Enter a Number:");
         int n = sc.nextInt();
         if (n < 0) {
-            n = -n;
         }
         System.out.println(n);
         sc.close();
